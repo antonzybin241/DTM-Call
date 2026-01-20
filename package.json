@@ -4,7 +4,6 @@
   "license": "MIT",
   "scripts": {
     "dev": "npx nx run dapp:serve",
-    "prepare": "npx nx run dapp:serve",
     "build:dapp": "npx nx run dapp:build",
     "lint:dapp": "npx nx run dapp:lint",
     "preview:dapp": "npx nx run dapp:preview",
